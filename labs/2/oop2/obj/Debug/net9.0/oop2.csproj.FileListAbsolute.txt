@@ -1,0 +1,15 @@
+D:\c# prog\labs\2\oop2\bin\Debug\net9.0\oop2.exe
+D:\c# prog\labs\2\oop2\bin\Debug\net9.0\oop2.deps.json
+D:\c# prog\labs\2\oop2\bin\Debug\net9.0\oop2.runtimeconfig.json
+D:\c# prog\labs\2\oop2\bin\Debug\net9.0\oop2.dll
+D:\c# prog\labs\2\oop2\bin\Debug\net9.0\oop2.pdb
+D:\c# prog\labs\2\oop2\obj\Debug\net9.0\oop2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# prog\labs\2\oop2\obj\Debug\net9.0\oop2.AssemblyInfoInputs.cache
+D:\c# prog\labs\2\oop2\obj\Debug\net9.0\oop2.AssemblyInfo.cs
+D:\c# prog\labs\2\oop2\obj\Debug\net9.0\oop2.csproj.CoreCompileInputs.cache
+D:\c# prog\labs\2\oop2\obj\Debug\net9.0\oop2.sourcelink.json
+D:\c# prog\labs\2\oop2\obj\Debug\net9.0\oop2.dll
+D:\c# prog\labs\2\oop2\obj\Debug\net9.0\refint\oop2.dll
+D:\c# prog\labs\2\oop2\obj\Debug\net9.0\oop2.pdb
+D:\c# prog\labs\2\oop2\obj\Debug\net9.0\oop2.genruntimeconfig.cache
+D:\c# prog\labs\2\oop2\obj\Debug\net9.0\ref\oop2.dll
