@@ -78,5 +78,10 @@ public class tensor
             }
             Console.WriteLine();
         }
-    } 
+    }
+
+    public override string ToString()
+    {
+        return "Hello";
+    }
 }

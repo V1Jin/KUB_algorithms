@@ -31,7 +31,9 @@ class Program
         matrix.print();
 
         Console.WriteLine("длина вектора x в заданном пространстве = " + matrix.lenVector(Vector));
-        
+
+        int[] a = { 1, 2, 3 };
+        Console.Write(a);
     }
 }
 
