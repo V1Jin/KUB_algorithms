@@ -1,0 +1,15 @@
+D:\c# prog\labs\4\oop4\bin\Debug\net9.0\oop4.exe
+D:\c# prog\labs\4\oop4\bin\Debug\net9.0\oop4.deps.json
+D:\c# prog\labs\4\oop4\bin\Debug\net9.0\oop4.runtimeconfig.json
+D:\c# prog\labs\4\oop4\bin\Debug\net9.0\oop4.dll
+D:\c# prog\labs\4\oop4\bin\Debug\net9.0\oop4.pdb
+D:\c# prog\labs\4\oop4\obj\Debug\net9.0\oop4.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# prog\labs\4\oop4\obj\Debug\net9.0\oop4.AssemblyInfoInputs.cache
+D:\c# prog\labs\4\oop4\obj\Debug\net9.0\oop4.AssemblyInfo.cs
+D:\c# prog\labs\4\oop4\obj\Debug\net9.0\oop4.csproj.CoreCompileInputs.cache
+D:\c# prog\labs\4\oop4\obj\Debug\net9.0\oop4.sourcelink.json
+D:\c# prog\labs\4\oop4\obj\Debug\net9.0\oop4.dll
+D:\c# prog\labs\4\oop4\obj\Debug\net9.0\refint\oop4.dll
+D:\c# prog\labs\4\oop4\obj\Debug\net9.0\oop4.pdb
+D:\c# prog\labs\4\oop4\obj\Debug\net9.0\oop4.genruntimeconfig.cache
+D:\c# prog\labs\4\oop4\obj\Debug\net9.0\ref\oop4.dll
